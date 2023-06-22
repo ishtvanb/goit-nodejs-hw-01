@@ -1,5 +1,6 @@
 node_modules/
-.vscode
+app.js
+package*
+.DS_Store
+.vscode/
 .idea
-.env
-.env.local
