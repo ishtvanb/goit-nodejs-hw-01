@@ -19,7 +19,7 @@
     "url": "https://github.com/ishtvanb/goit-nodejs-hw-01/issues"
   },
   "dependencies": {
-    "nanoid": "^4.0.2",
+    "nanoid": "^3.3.4",
     "yargs": "^17.7.2"
   },
   "homepage": "https://github.com/ishtvanb/goit-nodejs-hw-01#readme",
